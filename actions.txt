@@ -1,0 +1,15 @@
+repeat 537
+default_delay 0.2
+round_delay 0.5
+
+delay 2
+keyboard_press  F1
+delay 1
+keyboard_press r
+delay 1
+keyboard_hotkey ctrl s
+delay 1
+keyboard_press enter
+delay 1
+mouse_click 4626 752
+keyboard_press down
